@@ -1,0 +1,8 @@
+# IDE
+.idea/
+__pycache__
+
+# project
+.log
+.sqlite
+proxies.json
